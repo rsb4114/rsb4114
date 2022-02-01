@@ -9,4 +9,4 @@ rsb4114/rsb4114 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-- Refer to my page on System Dynamics here [Duck Duck Go](https://github.com/rsb4114/rsb4114/blob/main/System%20Dynamics.md)
+- Refer to my page on [System Dynamics here](https://github.com/rsb4114/rsb4114/blob/main/SystemDynamics.md)
